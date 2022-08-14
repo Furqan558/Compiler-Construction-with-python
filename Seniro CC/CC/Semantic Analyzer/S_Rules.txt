@@ -1,5 +1,0 @@
-E.val	=	E.val	+	T.val
-E.val	=	T.val
-T.val	=	T.val	*	F.val
-T.val	=	F.val
-F.val	=	d.value
