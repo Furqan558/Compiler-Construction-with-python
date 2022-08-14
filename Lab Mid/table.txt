@@ -1,0 +1,21 @@
+ 	 	 	 	 	 	 	 	s6	s5	s4	s3	 	 	s2	s1	 	 	 
+ 	 	 	 	 	s19	s18	s17	 	 	 	 	 	 	 	 	s16	 	 
+ 	 	 	 	 	s19	s18	s17	 	 	 	 	 	 	 	 	s15	 	 
+ 	s14	s13	s12	s11	 	 	 	 	 	 	 	s10	s9	 	 	 	s8	s7
+accept	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	R6	R6	R6	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	R7	R7	R7	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	s6	s5	s20	s3	 	 	s2	s1	 	 	 
+R4	R4	R4	R4	R4	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	R3	R3	R3	R3	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+R0	R0	R0	R0	R0	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+R11	R11	R11	R11	R11	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+R12	R12	R12	R12	R12	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+R13	R13	R13	R13	R13	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	R14	R14	 	 	 	 	 	 	 	 	 
+ 	R1 	R1 	R1 	R1 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	R2	R2	R2	R2	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	R8	R8	R8	R8	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	R9	R9	R9	R9	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	R10	R10	R10	R10	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	R5	R5	R5	R5	 													

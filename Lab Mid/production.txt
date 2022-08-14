@@ -1,0 +1,15 @@
+S=EV
+E=DN
+E=TN
+E=EA
+V=C
+A=IS
+D=e
+T=i
+N=y
+N=g
+N=b
+C=o
+C=m
+C=u
+I=h
